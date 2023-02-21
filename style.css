@@ -84,6 +84,9 @@ nav{
     font-family: var(--fonte-paragrafos);
     font-weight: bold;
     padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 nav a{
